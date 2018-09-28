@@ -1,4 +1,4 @@
-/*
+
 package at.htl.robot.model;
 
 import org.junit.jupiter.api.BeforeAll;
@@ -136,4 +136,3 @@ class RobotTest {
     }
 
 }
-*/
